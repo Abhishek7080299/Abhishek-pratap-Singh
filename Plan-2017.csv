@@ -1,0 +1,1233 @@
+ First Name,Employee_Class,Employee_Location,Employee_Division,Age_Grp,Exp_Within_Org,Gender,Home_state,marital_status,Annual_Salary_Bucket,Coverage_Level,Annual_EE_Contri,Annual ER Contri, Annual Total Premium
+Scott,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Fred,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+David,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Matt,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+William,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Jay,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Shelli,Salary,Head Office,IHDR1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jean,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lyle,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Charles,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Shelly,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Drew,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Laura,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kelley,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Robert,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Tracy,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Child,576,20.76,596.76
+Sheldon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Michelle,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Norman,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Tresa,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Eric,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Eric,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kirk,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kenneth,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Ryan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Todd,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Mike,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Wade,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Idaho,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Gregory,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Brian,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Alan,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Brett,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Amy,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Steven,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Kirk,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+George,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Gary,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Ryan,Salary,Head Office,IHFM1,Generation X [37-52]yrs,C[21-30]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Greg,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Robin,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Neal,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Wade,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Carolyn,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Phillip,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Colin,Salary,Head Office,IHGA1,Generation X [37-52]yrs,C[21-30]yrs,Male,Georgia,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Nova,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Mary,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Craig,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Dena,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Colby,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Gregory,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tylor,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Jason,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Roger,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Masoud,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Diane,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Darren,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Jon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Kent,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Melodee,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Brian,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Glen,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Devor,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Idaho,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kerri,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Kay-lynne,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Maria,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+James,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Alan,Salary,Head Office,IHFM1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Shawn,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Lynda,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Janica,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Curtis,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Brian,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Kurt,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Evan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Drew,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Shane,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+George,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Michelle,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sheldon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Douglas,Salary,Head Office,IHDR1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Adrienne,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jennifer,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Roberto,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Mark,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Mike,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Brandon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Ohio,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Linda,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Mike,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Mark,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Perry,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Lavance,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jay,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Emeline,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Jamie,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Lesa,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Tony,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Dianna,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jeff,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Child,576,20.76,596.76
+Mike,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Tania,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tracy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Sirgut,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Diane,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Clay,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Serena,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Peggy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Laura,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Paul,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cindy,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Doris,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Idaho,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Kurt,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Matthew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Idaho,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Brandon,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Paul,Salary,Head Office,IHFM1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Steven,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Biliulfo,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cecilia,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Georgia,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Coraine,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,B[11-20]yrs,Female,Georgia,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Motusaga,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,B[11-20]yrs,Male,Georgia,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Eugene,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Keyonna,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,A[0-10]yrs,Female,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Theron,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Kim,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,A[0-10]yrs,Female,Georgia,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Stephen,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Carlos,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Steven,Full Time-Hourly,Head Office,IHFM1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Minnesota,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Christopher,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Ohio,SINGLE,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Brian,Salary,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Michael,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Washington,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Ashley,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Colorado,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Michael,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Texas,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Courtney,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Trina,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,DIVORCED,"$1,20,000 & Above",Employee & Children,696,342.96,1038.96
+Debra,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Emilio,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Robert,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Gary,Salary,Head Office,IHCA1,Generation X [37-52]yrs,C[21-30]yrs,Male,California,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Rayne,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Korby,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Layne,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Thomas,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Terence,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Bruce,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Eileen,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Matt,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Antonio,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Andrew,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+David,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Santiago,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tony,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Phillip,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Fred,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kent,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Agustin,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Ronda,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Meagan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Gordon,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Keith,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Alexander,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Michael,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Lance,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Laurel,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,WIDOW,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Sharen,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Olga,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Domini,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tasia,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Bayon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Stephanie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Sean,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Douglas,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ayad,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Marie,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Corey,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Charles,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Cullen,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Nick,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Landon,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Joseph,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Stacy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Karla,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Shelley,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Whitney,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Osvelia,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Mackenzie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tavia,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Matthew,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Remo,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Christopher,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kory,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Elvira,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jacob,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Melody,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Lamont,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Michael,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Dustin,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Shanon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Blanca,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,WIDOW,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Rochelle,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jerry,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Gaylen,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Mark,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Robert,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Trenton,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Blake,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Lorin,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lee,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Stephen,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Kimberly,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Amy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tamera,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Trisha,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tracey,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Craig,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Larry,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Roxanne,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Danielle,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Jeremiah,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Luke,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Everett,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Colleen,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Katharine,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Illinois,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Dave,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Eric,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Jon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Wesley,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jeff,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Rachelle,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jack,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Cameron,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Branden,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Joshua,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jason,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Michael,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tyler,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Torey,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Arcadio,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Maria,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Vicky,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Blake,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Shannon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Jordan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Troy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Trevor,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Nancie,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Duane,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Gregory,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Blaine,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Sidney,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Billy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Lacey,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+David,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Thomas,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Loreal,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,B[11-20]yrs,Female,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Derek,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Matthew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Clifford,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Robert,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Scott,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tyler,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Solena,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kathryn,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Benjamin,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Robert,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+T Kade,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Alejandro,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Bradley,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Peter,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Nicole,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jared,Salary,Head Office,IHDR1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Emanuel,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Caitlin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Javier,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Susan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+John,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Aaron,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+David,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Jared,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Phillip,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Casey,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Tyson,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+April,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Scott,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Timothy,Full Time-Hourly,Head Office,IHCA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Daniel,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Edward,Salary,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Renee,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Miguel,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Gerald,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sharda,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+John,Full Time-Hourly,Head Office,IHCA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cesar,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Danny,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jose,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Jessica,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Rosalva,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Brad,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Nathan,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Trevor,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Mark,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Linda,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Quinn,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Berta,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Johnny,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Meagan,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Kelly,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Chris,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Dale,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Prescott,Full Time-Hourly,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Gavin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Lucinda,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Joel,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Stephanie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Adrian,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Kristi,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brianna,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Brooke,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jamie,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,696,342.96,1038.96
+Juan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Kelly,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Tyrell,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Jacob,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Karen,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jennifer,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Trevor,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Mindi,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Kenneth,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Richard,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Children,696,342.96,1038.96
+Andrea,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Monica,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Andrew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Robert,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Amberlynn,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Chase,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Natalie,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Craig,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Ryan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Donald,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kohn,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+John,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Nichole,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Kyle,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Craig,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Robert,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Audra,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Chase,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jacob,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Grady,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Colby,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Devon,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Elise,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Jeffrey,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Mason,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Cody,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Cortney,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Brian,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Anne,Part Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Spencer,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Justin,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Sean,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Rodney,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Alex,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Kelton,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Nathan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Jake,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Rui,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jason,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ashton,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Christian,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Clinton,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Austin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Shara,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Clinton,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sandra,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Jason,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Crystal,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Rachel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Fredrick,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Dustin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Sheena,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Grant,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Stephanie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Daniel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sophia,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Robert,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Part Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Wyoming,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Lynnette,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Katie,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Randolfo,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Kayton,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Colby,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Larry,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Joseph,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Missouri,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Theodore,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Rebecca,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Sonja,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Hayden,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jarom,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Anayeli,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Lucas,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Patrick,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Nicole,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jazmin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jesse,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brady,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Benjamin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Carlos,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Tina,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Sarah,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Randy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cesar,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+James,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Isabel,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Brian,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+John,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Caren,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jay,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Ty,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Keano,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Illinois,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Corey,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lucas,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Cade,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Joseph,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Texas,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Matthew,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Jeremy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Janna,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Aaron,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jean,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Daniel,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Emily,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jacob,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Larry,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Bonnie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Celeste,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Tiffany,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Aaron,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Cristal,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Washington,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Jeffrey,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Samuel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Ty,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Kevin,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tyler,Salary,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brandon,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Michelle,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Ohio,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Adrienne,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ariel,Salary,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Jaykob,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Joshua,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Camisha,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Marca,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Megan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Davin,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jon,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Jordan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ronald,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Michele,Full Time-Hourly,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Ohio,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Michael,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lanisa,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Unspecified,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ryan,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Patrick,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Connecticut,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Robert,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Robin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Scott,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Adam,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Juan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Bradley,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+George,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Ashley,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jordan,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Tabetha,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Washington,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Benjamin,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Kenneth,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Chad,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Braiden,Part Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Cheyanne,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Lance,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Heidi,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jessika,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+William,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,MARRIED,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Aaron,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Andrew,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",69.6,34.32,103.92
+Daniel,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Don,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Liang,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Allison,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Peter,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Pennsylvania,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Alexis,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Daniel,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Joshua,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Emily,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Landon,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Gary,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Peggy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Florida,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Nicholas,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Philip,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Arizona,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Shannon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Christopher,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Pennsylvania,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Andrew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Joshua,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Tracy,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Lacey,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Tiffany,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tyann,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Robert,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Makayla,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Bryan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Efrain,Salary,Head Office,IHCA1,Generation X [37-52]yrs,B[11-20]yrs,Male,California,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Cheryl,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Cindy,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Emily,Part Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Texas,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Barnett,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Trenton,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Justin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jonathan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Bradley,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Peter,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Oregon,MARRIED,"$80,000-$1,20,000",Employee & Child,576,20.76,596.76
+Laura,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Florida,MARRIED,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Robert,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Ohio,MARRIED,"$80,000-$1,20,000",Employee & Child,576,20.76,596.76
+Charles,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Andrew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Matthew,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Oregon,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+John,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Yahir,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Bryce,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Jedd,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Pedro,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,South Carolina,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Raiden,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Washington,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Jacob,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Illinois,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Missouri,SINGLE,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Shannon,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Kirk,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jordan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Melissa,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Female,Georgia,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Heidi,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Morgan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Texas,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Jason,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Oregon,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Chad,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Colorado,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Marcus,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Virginia,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Jakob,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Derek,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Illinois,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Joel,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Maryland,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Scott,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Fred,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+David,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Matt,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+William,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Jay,Executive,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Shelli,Salary,Head Office,IHDR1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jean,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lyle,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Charles,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Shelly,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Drew,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Laura,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kelley,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Robert,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Tracy,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Sheldon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Michelle,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Norman,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Tresa,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Eric,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Eric,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kirk,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kenneth,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Ryan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Todd,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Mike,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Wade,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Idaho,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Gregory,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Brian,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,D[Above 30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brett,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Amy,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Steven,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Kirk,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+George,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Gary,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Ryan,Salary,Head Office,IHFM1,Generation X [37-52]yrs,C[21-30]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Greg,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Robin,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Neal,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Wade,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Carolyn,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Phillip,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Colin,Salary,Head Office,IHGA1,Generation X [37-52]yrs,C[21-30]yrs,Male,Georgia,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Nova,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Mary,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Craig,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Dena,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Colby,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Gregory,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tylor,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Jason,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Roger,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Masoud,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Diane,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Darren,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Jon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Kent,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Melodee,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Brian,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Glen,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Devor,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Idaho,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kerri,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Kay-lynne,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Maria,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+James,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Debra,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Alan,Salary,Head Office,IHFM1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Shawn,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Lynda,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Janica,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Curtis,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Brian,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Kurt,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Evan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Drew,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Shane,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+George,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Michelle,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sheldon,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Douglas,Salary,Head Office,IHDR1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Adrienne,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jennifer,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Tim,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Christopher,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Roberto,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Mark,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Mike,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Brandon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Ohio,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Linda,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Mike,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Mark,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Perry,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Lavance,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jay,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Emeline,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Jamie,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Lesa,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Tami,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Idaho,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+David,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Tony,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Dianna,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jeff,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Child,576,20.76,596.76
+Mike,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Tania,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tracy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Sirgut,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Diane,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Clay,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Serena,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Peggy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Laura,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Paul,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cindy,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Doris,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Idaho,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Kurt,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Matthew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Idaho,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Brandon,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Paul,Salary,Head Office,IHFM1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Steven,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Biliulfo,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cecilia,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Georgia,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Coraine,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,B[11-20]yrs,Female,Georgia,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Motusaga,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,B[11-20]yrs,Male,Georgia,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Eugene,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Keyonna,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,A[0-10]yrs,Female,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Theron,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Kim,Full Time-Hourly,Head Office,IHGA1,Generation X [37-52]yrs,A[0-10]yrs,Female,Georgia,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Stephen,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Carlos,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Steven,Full Time-Hourly,Head Office,IHFM1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Minnesota,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Christopher,Salary,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Ohio,SINGLE,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Brian,Salary,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Michael,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Washington,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Ashley,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Colorado,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Michael,Salary,Head Office,IHFM1,Generation X [37-52]yrs,B[11-20]yrs,Male,Texas,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Courtney,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Trina,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,DIVORCED,"$1,20,000 & Above",Employee & Children,696,342.96,1038.96
+Debra,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Emilio,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Robert,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Gary,Salary,Head Office,IHCA1,Generation X [37-52]yrs,C[21-30]yrs,Male,California,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Rayne,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Korby,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Layne,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Thomas,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Terence,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Bruce,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Eileen,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Matt,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Antonio,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Andrew,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Jose,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+David,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Santiago,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tony,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Phillip,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Fred,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kent,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Agustin,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Ronda,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Meagan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Gordon,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Keith,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Alexander,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Michael,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Lance,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Laurel,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,WIDOW,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Sharen,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Olga,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Domini,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tasia,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Bayon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Stephanie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Sean,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Douglas,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ayad,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Marie,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Corey,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Charles,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Cullen,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Nick,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Landon,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Joseph,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Stacy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Karla,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Shelley,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Whitney,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Osvelia,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Mackenzie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tavia,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Matthew,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Remo,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Christopher,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kory,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Elvira,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jacob,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Melody,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Lamont,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Michael,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Dustin,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Shanon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Blanca,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,WIDOW,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Rochelle,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jerry,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Gaylen,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Mark,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Robert,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Trenton,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Blake,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Lorin,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lee,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Stephen,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Kimberly,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Amy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jesse,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tamera,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Trisha,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tracey,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Craig,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Larry,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Roxanne,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Danielle,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Jeremiah,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jennifer,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Luke,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Everett,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Colleen,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Katharine,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Illinois,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Dave,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Eric,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Jon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Wesley,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jeff,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Rachelle,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jack,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Cameron,Salary,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Branden,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Joshua,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jason,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Michael,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tyler,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Idaho,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Torey,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Arcadio,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Maria,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Vicky,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Blake,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Shannon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Jordan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Troy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Trevor,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Nancie,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Duane,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Gregory,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Blaine,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Sidney,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Billy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Lacey,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+David,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Derek,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Matthew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Clifford,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Robert,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Scott,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tyler,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Solena,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kathryn,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Benjamin,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Robert,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+T Kade,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Alejandro,Salary,Head Office,IHUT1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Bradley,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Peter,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Nicole,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jared,Salary,Head Office,IHDR1,Millennials [15-36]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Emanuel,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Caitlin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Javier,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Susan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+John,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Aaron,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+David,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Jared,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Phillip,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Casey,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Tyson,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+April,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Scott,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Timothy,Full Time-Hourly,Head Office,IHCA1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Daniel,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,B[11-20]yrs,Male,California,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Edward,Salary,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Renee,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Miguel,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Gerald,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sharda,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+John,Full Time-Hourly,Head Office,IHCA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cesar,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Danny,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jose,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Jessica,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Rosalva,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Jose,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Brad,Salary,Head Office,IHUT1,Generation X [37-52]yrs,B[11-20]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Trevor,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Mark,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Linda,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Quinn,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Berta,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Johnny,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Meagan,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Kelly,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Chris,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Dale,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Prescott,Full Time-Hourly,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Gavin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Lucinda,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Joel,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Stephanie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Adrian,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",1392,685.92,2077.92
+Kristi,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brianna,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Brooke,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jamie,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Juan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Kelly,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Richard,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Ethan,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Tyrell,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Jacob,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Karen,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jennifer,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Trevor,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Mindi,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Kenneth,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+David,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Richard,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Children,696,342.96,1038.96
+Andrea,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Monica,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Andrew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Robert,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Amberlynn,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Chase,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Natalie,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Craig,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Ryan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Donald,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Kohn,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+John,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Thomas,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Daniel,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Nichole,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Kyle,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Craig,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Robert,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Audra,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Chase,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jacob,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Grady,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Colby,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Devon,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Elise,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Jeffrey,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Mason,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Cody,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Cortney,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Brian,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Spencer,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Justin,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Sean,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Rodney,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Alex,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Kelton,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Nathan,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Jake,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Jason,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ashton,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Christian,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Clinton,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Austin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Shara,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Clinton,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Sandra,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Jason,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Rachel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Fredrick,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Dustin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Sheena,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Grant,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Stephanie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Sophia,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Kiera,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Robert,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Part Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Wyoming,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Lynnette,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Katie,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ryan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Randolfo,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Kayton,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Colby,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Larry,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Joseph,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Missouri,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Theodore,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Zachary,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Tyrel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Rebecca,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Sonja,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,DIVORCED,"Less than $40,000",Employee,288,13.92,301.92
+Hayden,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jarom,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Anayeli,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Lucas,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Patrick,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Nicole,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jazmin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Jesse,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brady,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Benjamin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Carlos,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Tina,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Cameron,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Sarah,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Randy,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cesar,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+James,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Isabel,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Brian,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+John,Salary,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Caren,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jay,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Ty,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Keano,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Illinois,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Corey,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+David,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Lucas,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Cade,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Joseph,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Texas,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Matthew,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Jeremy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Janna,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Aaron,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jean,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Emily,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Jacob,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Larry,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Bonnie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Celeste,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Tiffany,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Aaron,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jeffrey,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Samuel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"Less than $40,000",Employee & Child,576,20.76,596.76
+Ty,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Kevin,Salary,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tyler,Salary,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Brandon,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"$1,20,000 & Above","Employee, Spouse & Child",696,342.96,1038.96
+Michelle,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Ohio,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Adrienne,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ariel,Salary,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Jaykob,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Joshua,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Camisha,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Marca,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Davin,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Jon,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Georgia,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Hannah,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Jordan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ronald,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Michele,Full Time-Hourly,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Ohio,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Michael,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Lanisa,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Unspecified,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ryan,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Patrick,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Connecticut,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Robert,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Robin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Scott,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Adam,Full Time-Hourly,Head Office,IHDR1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Juan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Bradley,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+George,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jordan,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Benjamin,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Kenneth,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Chad,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Cheyanne,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Lance,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Heidi,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Jessika,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+William,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,MARRIED,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Aaron,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Andrew,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Daniel,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Don,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Liang,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Allison,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Peter,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Pennsylvania,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Alexis,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Daniel,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Joshua,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Emily,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Landon,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Ryan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Gary,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Peggy,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Florida,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Nicholas,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Philip,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Arizona,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Gianesi,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Idaho,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Shannon,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Brandon,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Pennsylvania,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Andrew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Joshua,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Colton,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Idaho,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tracy,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Lacey,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Celeste,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Tiffany,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Alyssa,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Tyann,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Robert,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Makayla,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Bryan,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Efrain,Salary,Head Office,IHCA1,Generation X [37-52]yrs,B[11-20]yrs,Male,California,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Cheryl,Full Time-Hourly,Head Office,IHFM1,Generation X [37-52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Cindy,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,B[11-20]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Emily,Part Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Texas,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+William,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$1,20,000 & Above",Employee,288,13.92,301.92
+Barnett,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Stephen,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Trenton,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Justin,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Bradley,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Peter,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Oregon,MARRIED,"$80,000-$1,20,000",Employee & Child,576,20.76,596.76
+Laura,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Florida,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Robert,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Ohio,MARRIED,"$80,000-$1,20,000",Employee & Children,696,342.96,1038.96
+Charles,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Kyle,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Andrew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Matthew,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Oregon,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+John,Salary,Head Office,IHFM1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Yahir,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Bryce,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Florida,MARRIED,"$1,20,000 & Above",Employee & Spouse,576,20.76,596.76
+Jedd,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Harrison,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Pedro,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,South Carolina,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Raiden,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Washington,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Jacob,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Illinois,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Travis,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Missouri,SINGLE,"$40,000 to $80,000",Employee & Children,696,342.96,1038.96
+Shannon,Full Time-Hourly,Head Office,IHFM1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Jacob,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Kirk,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Child",696,342.96,1038.96
+Samuel,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Jordan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Children",696,342.96,1038.96
+Melissa,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Female,Georgia,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Heidi,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,C[21-30]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Morgan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Texas,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Allison,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Chad,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Colorado,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Marcus,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Virginia,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Jakob,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Derek,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Illinois,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Joel,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Maryland,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+James,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,California,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Jennie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Shuweii,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Courtney,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Travis,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Kari,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee,288,13.92,301.92
+Andrew,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Illinois,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Andrew,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Cynthia,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Kelsey,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Kansas,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Morris,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Matthew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Rebecca,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Garrett,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Arizona,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Nikyla,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Idaho,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Cynthia,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Mary Jo,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$80,000-$1,20,000",Employee & Spouse,576,20.76,596.76
+Vickie,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Virginia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+David,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Children,696,342.96,1038.96
+Richard,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,DIVORCED,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Darin,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Kaston,Full Time-Hourly,Head Office,IHDR1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Jordan,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Michael,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Oregon,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Michael,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,South Carolina,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Amanda,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Virginia,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Alma,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Charles,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,North Carolina,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Alberto,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+William,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+John,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Washington,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Nikita,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Pennsylvania,SINGLE,"$1,20,000 & Above",Employee,288,13.92,301.92
+Kelan,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Carla,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Rita,Full Time-Hourly,Head Office,IHUT1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Alan,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Edgardo,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee & Child,576,20.76,596.76
+Travis,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$1,20,000 & Above","Employee, Spouse & Children",696,342.96,1038.96
+Christopher,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Renee,Full Time-Hourly,Head Office,IHCA1,Millennials [15-36]yrs,A[0-10]yrs,Female,California,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Clinton,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Texas,MARRIED,"$40,000 to $80,000",Employee,288,13.92,301.92
+Rex,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Imran,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Amber,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Eugene,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Alec,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Marissa,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Monica,Full Time-Hourly,Head Office,IHCA1,Generation X [37-52]yrs,A[0-10]yrs,Female,California,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Adam,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Ashley,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Nicole,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Hilary,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"$40,000 to $80,000",Employee & Child,576,20.76,596.76
+Gero,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,California,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Josef,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+James,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Washington,SINGLE,"$80,000-$1,20,000",Employee,288,13.92,301.92
+Jeremiah,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Tyler,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Washington,SINGLE,"$40,000 to $80,000",Employee,288,13.92,301.92
+Andres,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ross,Salary,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000","Employee, Spouse & Child",696,342.96,1038.96
+Ronald,Salary,Head Office,IHFM1,Generation X [37-52]yrs,A[0-10]yrs,Male,Connecticut,MARRIED,"$40,000 to $80,000","Employee, Spouse & Children",696,342.96,1038.96
+Brittney,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Shayna,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Caroline,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"$80,000-$1,20,000","Employee, Spouse & Child",696,342.96,1038.96
+Danielle,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Idaho,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Melanie,Full Time-Hourly,Head Office,IHUT1,Generation X [37-52]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000","Employee, Spouse & Children",696,342.96,1038.96
+Matthew,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Chelsea,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Makenzie,Full Time-Hourly,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Female,Utah,MARRIED,"Less than $40,000",Employee & Spouse,576,20.76,596.76
+Robert,Salary,Head Office,IHUT1,Millennials [15-36]yrs,A[0-10]yrs,Male,Utah,MARRIED,"$40,000 to $80,000",Employee & Spouse,576,20.76,596.76
+Mario,Full Time-Hourly,Head Office,IHGA1,Millennials [15-36]yrs,A[0-10]yrs,Male,South Carolina,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Joe,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Male,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
+Ivelisse,Full Time-Hourly,Head Office,IHGA1,Baby Boomers [Above 52]yrs,A[0-10]yrs,Female,Georgia,SINGLE,"Less than $40,000",Employee,288,13.92,301.92
